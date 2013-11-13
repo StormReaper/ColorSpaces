@@ -1,0 +1,1 @@
+**ColorSpaces** is a an import of a library for dealing with different types of color spaces and conversions between them by [Guillaume Leparmentier](http://www.codeproject.com/Articles/19045/Manipulating-colors-in-NET-Part-1)
